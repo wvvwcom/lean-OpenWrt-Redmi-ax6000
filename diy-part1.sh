@@ -18,6 +18,6 @@ echo 'src-git helloworld https://github.com/fw876/helloworld.git;main' >>feeds.c
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git messense https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
 
-# ilxp/luci-app-ikoolproxy
-rm -rf package/luci-app-ikoolproxy
-git clone https://github.com/ilxp/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
+# ilxp/luci-app-ikoolproxy ax6000_lede clash
+# rm -rf package/luci-app-ikoolproxy
+# git clone https://github.com/ilxp/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
